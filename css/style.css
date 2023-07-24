@@ -4,8 +4,9 @@
 }
 
 .header__logo {
+  margin-top: 20px;
   display: flex;
-  margin-bottom: 20px;
+  margin-bottom: 30px;
 }
 
 .header__woman {
@@ -13,4 +14,26 @@
   width: 100%;
 }
 
-/*# sourceMappingURL=style.css.map */
+.HGroup__text {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: bold;
+  font-size: 36px;
+}
+.First_Text {
+  color: #f6b5b5;
+  margin-top: 50px;
+  font-weight: normal;
+}
+
+p {
+  font-family: "Josefin Sans", sans-serif;
+  /* font-family: "Nunito", sans-serif;*/
+  font-size: 16px;
+  margin-top: 20px;
+  color: #f6b5b5;
+  width: 100%;
+  text-align: center;
+}
